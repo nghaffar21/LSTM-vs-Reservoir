@@ -4,15 +4,18 @@ This is an effort to prove that Reservoir Computing is more efficient and precis
 We'll abbreviate Reservoir Computing as RC throughout.
 
 Main libraries used for LSTM:
-Pytorch
-Pytorch Lightning
+- Pytorch
+- Pytorch Lightning
 
 Main libraries used for RC:
-ReservoirPy
+- ReservoirPy
+
+The dataset used in both cases is: https://www.kaggle.com/datasets/muthuj7/weather-dataset
+This is a 10-year hour-by-hour dataset from Hungary(no more details were found because the website hosting it is deprecated).
 
 MLflow is used for hyperparameter optimization in both programs.
 
-The Results are stunning.
+The Results are stunning:
 
 LSTM:
 
