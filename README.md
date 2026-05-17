@@ -113,9 +113,7 @@ This ensured that both approaches operated under optimized conditions, making th
 
 The following graphs illustrate the prediction accuracy achieved by the Reservoir Computing model:
 
-![Graph 1](images/graph1.png)
-
-![Graph 2](images/graph2.png)
+<img width="528" height="765" alt="image" src="https://github.com/user-attachments/assets/5fb8a4cb-2410-4064-82b9-85e5109addbd" />
 
 ---
 
