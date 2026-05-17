@@ -95,7 +95,7 @@ This ensured that both approaches operated under optimized conditions, making th
 - **Humidity Test RMSE:** 3.70 %
 - **Training + Inference Time:** ~30 minutes
 
-![LSTM Console Output](images/lstm_console.png)
+<img width="831" height="308" alt="image" src="https://github.com/user-attachments/assets/22fa898c-33cb-49e5-98a5-186d03930dbc" />
 
 ---
 
@@ -105,7 +105,7 @@ This ensured that both approaches operated under optimized conditions, making th
 - **Humidity Test RMSE:** 0.05 %
 - **Training + Inference Time:** 1 minute 13 seconds
 
-![RC Console Output](images/rc_console.png)
+<img width="829" height="144" alt="image" src="https://github.com/user-attachments/assets/0541eed3-2f0d-431c-a9bf-99bd8a6b874f" />
 
 ---
 
