@@ -145,3 +145,18 @@ Under the same dataset and optimization conditions, Reservoir Computing outperfo
 - Execution speed
 
 For this reason, Reservoir Computing was selected as the final model for the broader project this repository belongs to.
+
+## Environment Setup
+
+This project uses a Conda environment.
+
+To reproduce the environment:
+
+```bash
+conda env create -f environment.yml
+conda activate lstm-vs-rc
+```
+
+## GPU Support
+
+This project was developed using CUDA 12.4, but CPU execution is also supported.
