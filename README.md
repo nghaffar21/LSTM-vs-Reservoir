@@ -146,7 +146,7 @@ Under the same dataset and optimization conditions, Reservoir Computing outperfo
 
 For this reason, Reservoir Computing was selected as the final model for the broader project this repository belongs to.
 
-## Environment Setup
+# Environment Setup
 
 This project uses a Conda environment.
 
