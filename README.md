@@ -95,7 +95,7 @@ This ensured that both approaches operated under optimized conditions, making th
 - **Humidity Test RMSE:** 3.70 %
 - **Training + Inference Time:** ~30 minutes
 
-<img width="831" height="308" alt="image" src="https://github.com/user-attachments/assets/22fa898c-33cb-49e5-98a5-186d03930dbc" />
+<img width="1139" height="55" alt="image" src="https://github.com/user-attachments/assets/46f35ac6-374c-4854-8365-b6c01903c24e" />
 
 ---
 
